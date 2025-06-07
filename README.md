@@ -1,1 +1,1 @@
-- Lógica de um "sisteminha" bancário simples construído em python, realizado durante o bootcamp da Digital Innovation One (DIO).. Pretendo melhorá-lo eventualmente e qualquer contribuição será bem-vinda!!!!
+- Lógica de um "sisteminha" bancário simples construído em python, realizado durante o bootcamp da Digital Innovation One (Digitsl Innovation Class).. Pretendo melhorá-lo eventualmente e qualquer contribuição será bem-vinda!!!!
